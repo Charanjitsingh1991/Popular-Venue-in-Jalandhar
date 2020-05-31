@@ -1,7 +1,7 @@
 # Popular-Venue-in-Jalandhar
 
 ### Project description
-@author: Charanjit Singh
+@author: Charanjit Singh <br>
 Creation date:30/may/2020
 
 The aim of the project is to identify venues in Jalandhar, India based on their rating and average prices. In this notebook, we will identify various venues in the city of Jalandhar, India, using Foursquare API and Zomato API, to help visitors select the restaurants that suit them the best.
